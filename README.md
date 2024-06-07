@@ -1,4 +1,4 @@
-# Quiz Application using AWS Amplify and Cognito (with CI/CD)
+# React Application using AWS Amplify and Cognito (with CI/CD)
 
 This repository contains a Quiz application built with AWS Amplify and Cognito for authentication. It also demonstrates setting up a CI/CD pipeline for automated deployment.
 
